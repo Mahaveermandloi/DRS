@@ -1,0 +1,30 @@
+Homepage:
+
+Introduction: Briefly describe the digital recruitment solution and its benefits.
+
+Key Features: Highlight the main features and advantages of the app for hiring managers and HR professionals.
+
+Call-to-Action: Include a prominent call-to-action button to encourage visitors to sign up or learn more about the app.
+
+
+User Login and Register Pages:
+
+Login Page:
+Username/Email and Password fields
+"Forgot Password" option
+Login button
+Register Page:
+Company Information: Collect essential details such as company name, email, and contact information.
+Account Credentials: Enable users to create a username/email and password for their account.
+Register button
+Candidate Search and Listing:
+
+Search Functionality:
+Location Filter: Allow users to search for candidates based on their location.
+Job Role Filter: Provide a dropdown or checkbox list to select desired job roles.
+Search Button
+Candidate Listing:
+Display Format: Show candidates in a clear and organized manner, including key information like name, experience, and education.
+Candidate Details: Provide a summary of each candidate, including skills and a brief bio.
+Ranking and Evaluation: Allow hiring managers to add candidates to a ranking or evaluation list for further assessment.
+Remember to design each page to be visually appealing, user-friendly, and responsive across different devices. You can further enhance the functionality and features within these pages based on your specific requirements and target audience.
